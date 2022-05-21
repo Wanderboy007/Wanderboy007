@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wanderboy007
-- 👀 I’m interested in web development and games
-- 🌱 I’m currently learning c++ 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning c 
 - 💞️ I’m looking to collaborate on anything new 
 - 📫 How to reach me ...
 Email:- chavhantejas35@gmail.com
